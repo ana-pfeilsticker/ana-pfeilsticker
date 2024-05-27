@@ -1,6 +1,6 @@
 ## Oii! Sou a Ana Luiza Pfeilsticker.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,js,ts,html,css,mysql,c,docker,figma,git,github,heroku,nodejs,py,sequelize,tailwind,)](https://skillicons.dev)
   
   ##
  
