@@ -1,6 +1,6 @@
 ## Oii! Sou a Ana Luiza Pfeilsticker.
 
-  <img align="right" alt="Coding" src="https://i.pinimg.com/564x/49/bb/99/49bb99849e70195f8fd92053d41fbaf4.jpg">
+  <img align="center" alt="Coding" src="https://i.pinimg.com/originals/72/e9/c3/72e9c33f3327bfb2485c80b3188e41fb.gif">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-pfeilsticker&show_icons=true&card_width=600px&theme=tokyonight)
