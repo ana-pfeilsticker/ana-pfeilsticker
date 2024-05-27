@@ -5,7 +5,7 @@
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ana-pfeilsticker&show_icons=true&card_width=600px&theme=tokyonight)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-pfeilsticker)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ana-pfeilsticker&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,ts,html,css,mysql,c,nodejs,py,)](https://skillicons.dev)
   
