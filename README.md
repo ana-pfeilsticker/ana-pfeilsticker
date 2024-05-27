@@ -7,16 +7,16 @@
 </div>
 
 <div align="center" style="width: 100%; display: flex; justify-content: center; gap: 10px;">
-  <div>
+  <div style="flex: 1;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ana-pfeilsticker&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" style="width: 100%;" />
   </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-pfeilsticker&theme=tokyonight&layout=compact&hide_border=true" alt="Top Langs"/>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-pfeilsticker&theme=tokyonight&layout=compact&hide_border=true" alt="Top Langs" style="width: 100%;" />
   </div>
 </div>
 
 <div align="center" style="width: 100%;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,ts,html,css,mysql,c,nodejs,py" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=react,vue,ts,html,css,mysql,c,nodejs,py" alt="My Skills" style="width: 100%;" />
   </a>
 </div>
