@@ -1,5 +1,6 @@
   <img align="center" alt="Coding" src="https://i.pinimg.com/originals/cc/b0/45/ccb04518ec0f00015b14db0270eefddf.png">
 
+
 # Sobre Mim
 
 Sou Engenheira de Software com especialização em Requisitos e Testes e uma paixão por Desenvolvimento Full Stack. Minha jornada começou na Universidade de Brasília, onde lidero projetos inovadores desde os primeiros passos na minha carreira. Um exemplo notável foi a criação do aplicativo Nutrie, focado na prevenção da obesidade infantil, que despertou minha paixão pelo desenvolvimento de software.
