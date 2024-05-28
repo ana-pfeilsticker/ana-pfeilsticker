@@ -1,4 +1,4 @@
-  <img align="center" alt="Coding" src="https://i.pinimg.com/originals/72/e9/c3/72e9c33f3327bfb2485c80b3188e41fb.gif">
+  <img align="center" alt="Coding" src="https://i.pinimg.com/originals/cc/b0/45/ccb04518ec0f00015b14db0270eefddf.png">
 
 # Sobre Mim
 
