@@ -23,3 +23,6 @@ Sou Engenheira de Software com especialização em Requisitos e Testes e uma pai
 
 
 [![My Skills](https://skillicons.dev/icons?i=react,vue,ts,html,css,mysql,c,nodejs,py,)](https://skillicons.dev)
+
+ ![snake gif](https://github.com/ana-pfeilsticker/ana-pfeilsticker/blob/output/github-contribution-grid-snake.gif)
+
