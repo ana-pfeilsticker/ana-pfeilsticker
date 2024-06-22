@@ -22,6 +22,7 @@
 
 <h3 align="left">Minhas Habilidades</h3>
 
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" alt="next logo"  />
   <img width="8" />
