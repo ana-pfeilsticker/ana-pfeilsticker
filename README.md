@@ -6,8 +6,6 @@
 
 <img align="center" alt="Coding" src="https://i.pinimg.com/originals/72/e9/c3/72e9c33f3327bfb2485c80b3188e41fb.gif">
 
-
-
 # 
 <p align="center">Sou Engenheira de Software com especialização em Requisitos e Testes e uma paixão por Desenvolvimento Full Stack. Minha jornada começou na Universidade de Brasília, onde lidero projetos inovadores desde os primeiros passos na minha carreira. Um exemplo notável foi a criação do aplicativo Nutrie, focado na prevenção da obesidade infantil, que despertou minha paixão pelo desenvolvimento de software. Ou o projeto DocPro, de preenchimento de documentos jurídicos que me auxiliou a aprofundar no conhecimendo de front-end e back-end.
   
